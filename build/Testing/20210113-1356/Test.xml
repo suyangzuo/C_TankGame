@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20210113-1356-Experimental"
+	Name="SY-15ARE"
+	Generator="ctest-3.19.1"
+	CompilerName="C:/Program Files/mingw64/bin/g++.exe"
+	CompilerVersion="8.1.0"
+	OSName="Windows"
+	Hostname="SY-15ARE"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19042)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="0"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="18166"
+	TotalPhysicalMemory="15734"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1796"
+	>
+	<Testing>
+		<StartDateTime>Jan 13 21:56 ?D1[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xB2][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC1]?[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0]??</StartDateTime>
+		<StartTestTime>1610546176</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 13 21:56 ?D1[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xB2][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC1]?[NON-UTF-8-BYTE-0xA8][NON-UTF-8-BYTE-0xBA][NON-UTF-8-BYTE-0xA1][NON-UTF-8-BYTE-0xC0]??</EndDateTime>
+		<EndTestTime>1610546176</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

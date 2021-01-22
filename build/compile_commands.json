@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/suyang/Documents/Visual Studio Code/C_Game/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/C_Game.dir/includes_C.rsp -g -o CMakeFiles\\C_Game.dir\\main.c.obj -c \"C:\\Users\\suyang\\Documents\\Visual Studio Code\\C_Game\\main.c\"",
+  "file": "C:/Users/suyang/Documents/Visual Studio Code/C_Game/main.c"
+}
+]

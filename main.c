@@ -6,10 +6,10 @@ const int WINDOW_WIDTH = 960;   //窗体宽度
 const int WINDOW_HEIGHT = 640;  //窗体高度
 
 //使用旋转角度定义方向
-const int UP = 0;
-const int DOWN = 180;
-const int LEFT = 270;
-const int RIGHT = 90;
+const int UP = 0;      //坦克默认向上
+const int DOWN = 180;  //旋转180度向下
+const int LEFT = 270;  //旋转270度向左
+const int RIGHT = 90;  //旋转90度向右
 //-------------------
 
 typedef struct {
