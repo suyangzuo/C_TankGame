@@ -17,7 +17,7 @@ typedef struct {
     int y;
     int width;
     int height;
-    int direction;
+    int direction;  //方向，以角度来表示
     SDL_Texture *texture;
 } Player;
 
